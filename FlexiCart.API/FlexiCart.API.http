@@ -1,0 +1,6 @@
+@FlexiCart.API_HostAddress = http://localhost:5051
+
+GET {{FlexiCart.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
